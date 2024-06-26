@@ -1,4 +1,4 @@
-package flink;
+package FlinkCDC_CODE;
 
 import io.debezium.spi.converter.CustomConverter;
 import io.debezium.spi.converter.RelationalColumn;

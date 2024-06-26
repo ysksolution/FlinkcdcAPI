@@ -1,4 +1,4 @@
-package flink;
+package FlinkCDC_CODE;
 
 import org.apache.flink.streaming.api.windowing.windows.TimeWindow;
 

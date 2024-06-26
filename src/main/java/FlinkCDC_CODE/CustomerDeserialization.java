@@ -1,4 +1,4 @@
-package flink;
+package FlinkCDC_CODE;
 
 import com.alibaba.fastjson.JSONObject;
 import com.ververica.cdc.debezium.DebeziumDeserializationSchema;
