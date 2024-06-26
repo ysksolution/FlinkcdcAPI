@@ -108,7 +108,7 @@ public class CameraAlert {
     }
 
     public static void sendAlert(String info){
-        String urlString = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=813fef12-834c-48ee-87f5-e3ca432bc433";
+        String urlString = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=813fef";
 
         String jsonInputString = "{\n" +
                 "    \"msgtype\": \"text\",\n" +
